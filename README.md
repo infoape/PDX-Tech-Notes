@@ -2,7 +2,7 @@
 A list of tech related resources in Portland for people
 
 ##Women in Tech
-Complements of @alicegoldfuss
+Compliments of @alicegoldfuss
 - PDX Women in Tech: http://www.pdxwit.org/
 - Women Who Code Portland: http://www.meetup.com/Women-Who-Code-Portland/
 - PDX PyLadies: http://www.pyladies.com/locations/pdx/
